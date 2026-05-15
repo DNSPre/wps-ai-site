@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting to WPS AI...</title>
+  <link rel="canonical" href="https://must.show/en/">
+  <script>
+    // Detect browser language and redirect
+    const lang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+    const supported = ['ar','de','es','fr','id','it','ja','ko','ms','nl','pl','pt','ru','th','tr','vi','zh-cn','zh-tw'];
+    const match = supported.find(l => lang.startsWith(l)) || 'en';
+    window.location.replace('https://must.show/' + match + '/');
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0;url=/en/">
+  </noscript>
+</head>
+<body>
+  <p>Redirecting to <a href="/en/">WPS AI</a>...</p>
+</body>
+</html>
