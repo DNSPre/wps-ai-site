@@ -1,0 +1,16 @@
+{
+  "lang": "pt",
+  "dir": "ltr",
+  "nav": {
+    "products": "Produtos",
+    "templates": "Modelos",
+    "guides": "Guias",
+    "pricing": "Preços",
+    "signin": "Entrar",
+    "getstarted": "Começar grátis"
+  },
+  "home": {
+    "hero_title": "Seu Suite de Escritório com IA",
+    "hero_cta_primary": "Começar grátis"
+  }
+}

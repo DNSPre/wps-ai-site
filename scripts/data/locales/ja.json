@@ -1,0 +1,16 @@
+{
+  "lang": "ja",
+  "dir": "ltr",
+  "nav": {
+    "products": "製品",
+    "templates": "テンプレート",
+    "guides": "ガイド",
+    "pricing": "料金",
+    "signin": "サインイン",
+    "getstarted": "無料で始める"
+  },
+  "home": {
+    "hero_title": "AIオフィススイート",
+    "hero_cta_primary": "無料で始める"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "zh-tw",
+  "dir": "ltr",
+  "nav": {
+    "products": "產品",
+    "templates": "範本",
+    "guides": "指南",
+    "pricing": "定價",
+    "signin": "登入",
+    "getstarted": "免費開始"
+  },
+  "home": {
+    "hero_title": "AI 驅動辦公套件",
+    "hero_cta_primary": "免費開始"
+  }
+}

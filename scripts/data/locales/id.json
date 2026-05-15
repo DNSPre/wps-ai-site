@@ -1,0 +1,16 @@
+{
+  "lang": "id",
+  "dir": "ltr",
+  "nav": {
+    "products": "Produk",
+    "templates": "Template",
+    "guides": "Panduan",
+    "pricing": "Harga",
+    "signin": "Masuk",
+    "getstarted": "Mulai gratis"
+  },
+  "home": {
+    "hero_title": "Suite Kantor Bertenaga AI",
+    "hero_cta_primary": "Mulai gratis"
+  }
+}

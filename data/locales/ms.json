@@ -1,0 +1,16 @@
+{
+  "lang": "ms",
+  "dir": "ltr",
+  "nav": {
+    "products": "Produk",
+    "templates": "Templat",
+    "guides": "Panduan",
+    "pricing": "Harga",
+    "signin": "Log masuk",
+    "getstarted": "Mula percuma"
+  },
+  "home": {
+    "hero_title": "Suite Pejabat Berkuasa AI",
+    "hero_cta_primary": "Mula percuma"
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+
+  "nav": {
+    "logo_alt": "WPS AI",
+    "products": "Products",
+    "templates": "Templates",
+    "guides": "Guides",
+    "pricing": "Pricing",
+    "signin": "Sign In",
+    "getstarted": "Get Started Free",
+    "try_free": "Try Free",
+    "close_menu": "Close menu",
+    "open_menu": "Open menu"
+  },
+
+  "mega": {
+    "pdf_tools": {
+      "label": "PDF Tools",
+      "desc": "Convert, edit, compress PDFs"
+    },
+    "ai_writing": {
+      "label": "AI Writing",
+      "desc": "Write faster with AI assistance"
+    },
+    "ai_slides": {
+      "label": "AI Slides",
+      "desc": "Create stunning presentations"
+    },
+    "ai_sheets": {
+      "label": "AI Sheets",
+      "desc": "Spreadsheets powered by AI"
+    },
+    "ai_tools": {
+      "label": "AI Tools",
+      "desc": "Productivity tools for everyone"
+    },
+    "see_all": "See all tools →"
+  },
+
+  "home": {
+    "hero_title": "Your AI-Powered Office Suite",
+    "hero_subtitle": "WPS AI brings intelligent writing, PDF editing, presentations, and spreadsheets into one seamless experience — available in 20 languages.",
+    "hero_cta_primary": "Get Started Free",
+    "hero_cta_secondary": "See how it works",
+    "hero_badge": "Trusted by 500M+ users worldwide",
+    "features_title": "Everything you need to work smarter",
+    "features_subtitle": "AI-powered tools that adapt to your workflow",
+    "stats_users": "500M+",
+    "stats_users_label": "Active Users",
+    "stats_countries": "200+",
+    "stats_countries_label": "Countries",
+    "stats_languages": "20",
+    "stats_languages_label": "Languages",
+    "stats_files": "1B+",
+    "stats_files_label": "Files Processed",
+    "product_section_title": "Our Products",
+    "cta_title": "Ready to boost your productivity?",
+    "cta_subtitle": "Join 500 million users already using WPS AI",
+    "cta_btn": "Start for Free"
+  },
+
+  "pdf": {
+    "hub_title": "PDF Tools",
+    "hub_subtitle": "Complete PDF toolkit — convert, edit, compress, merge, and more",
+    "to_word": {
+      "title": "PDF to Word",
+      "subtitle": "Convert PDF to editable Word documents instantly",
+      "desc": "Transform any PDF into a fully editable Microsoft Word file. Our AI-powered converter preserves formatting, tables, images, and layouts with industry-leading accuracy.",
+      "meta_title": "PDF to Word Converter — Free Online | WPS AI",
+      "meta_desc": "Convert PDF to Word online free. Preserve formatting, tables & images. Fast, accurate, no sign-up required.",
+      "upload_title": "Drop your PDF here",
+      "upload_subtitle": "or click to browse — PDF files up to 200MB",
+      "convert_btn": "Convert to Word",
+      "output_format": "Output Format",
+      "feature_1": "Preserves original formatting",
+      "feature_2": "Supports scanned PDFs (OCR)",
+      "feature_3": "Batch conversion available",
+      "feature_4": "No file size limits with Pro"
+    },
+    "to_excel": {
+      "title": "PDF to Excel",
+      "subtitle": "Extract tables and data from PDFs to Excel",
+      "desc": "Convert PDF tables and data to editable Excel spreadsheets. Perfect for financial reports, invoices, and data analysis.",
+      "meta_title": "PDF to Excel Converter — Free Online | WPS AI",
+      "meta_desc": "Convert PDF to Excel online. Extract tables and data accurately. Free to use, no installation needed."
+    },
+    "to_ppt": {
+      "title": "PDF to PowerPoint",
+      "subtitle": "Turn PDFs into editable PowerPoint presentations",
+      "desc": "Convert your PDF slides back into fully editable PowerPoint files. Maintain slide structure, images, and text formatting.",
+      "meta_title": "PDF to PowerPoint Converter — Free Online | WPS AI",
+      "meta_desc": "Convert PDF to PPT online free. Keep slides, images and formatting intact."
+    },
+    "to_jpg": {
+      "title": "PDF to JPG",
+      "subtitle": "Convert PDF pages to high-quality images",
+      "desc": "Export each PDF page as a high-resolution JPG image. Great for sharing, previewing, or embedding PDF content.",
+      "meta_title": "PDF to JPG Converter — Free Online | WPS AI",
+      "meta_desc": "Convert PDF to JPG images online. High resolution, batch export available."
+    },
+    "word_to": {
+      "title": "Word to PDF",
+      "subtitle": "Convert Word documents to PDF in seconds",
+      "desc": "Turn your .doc and .docx files into professional PDFs with perfect fidelity. One click, instant conversion.",
+      "meta_title": "Word to PDF Converter — Free Online | WPS AI",
+      "meta_desc": "Convert Word to PDF online free. Perfect fidelity, fast conversion."
+    },
+    "excel_to": {
+      "title": "Excel to PDF",
+      "subtitle": "Convert Excel spreadsheets to PDF",
+      "desc": "Export your Excel files as PDFs with all formulas, charts, and formatting preserved.",
+      "meta_title": "Excel to PDF Converter — Free Online | WPS AI",
+      "meta_desc": "Convert Excel to PDF free. Keep charts, tables and formatting."
+    },
+    "ppt_to": {
+      "title": "PowerPoint to PDF",
+      "subtitle": "Convert presentations to shareable PDFs",
+      "desc": "Transform your PowerPoint presentations into polished PDF files ready to share anywhere.",
+      "meta_title": "PowerPoint to PDF Converter — Free Online | WPS AI",
+      "meta_desc": "Convert PPT to PDF online. Free, fast, high quality."
+    },
+    "jpg_to": {
+      "title": "JPG to PDF",
+      "subtitle": "Combine images into a single PDF",
+      "desc": "Merge one or multiple JPG images into a PDF document. Perfect for scanning documents or creating photo portfolios.",
+      "meta_title": "JPG to PDF Converter — Free Online | WPS AI",
+      "meta_desc": "Convert JPG to PDF online free. Combine multiple images into one PDF."
+    },
+    "compress": {
+      "title": "Compress PDF",
+      "subtitle": "Reduce PDF file size without losing quality",
+      "desc": "Shrink large PDF files for easier sharing and storage. Choose your compression level — from light to maximum.",
+      "meta_title": "Compress PDF — Free Online PDF Compressor | WPS AI",
+      "meta_desc": "Compress PDF files online for free. Reduce file size without losing quality."
+    },
+    "merge": {
+      "title": "Merge PDF",
+      "subtitle": "Combine multiple PDFs into one",
+      "desc": "Drag and drop multiple PDF files to combine them into a single document. Reorder pages as you like.",
+      "meta_title": "Merge PDF Files — Free Online | WPS AI",
+      "meta_desc": "Merge PDF files online free. Combine and reorder pages easily."
+    },
+    "split": {
+      "title": "Split PDF",
+      "subtitle": "Extract pages or split PDFs into separate files",
+      "desc": "Split a large PDF into individual pages or extract specific page ranges into separate documents.",
+      "meta_title": "Split PDF Online — Free PDF Splitter | WPS AI",
+      "meta_desc": "Split PDF into multiple files online. Extract pages or specific page ranges."
+    },
+    "edit": {
+      "title": "Edit PDF",
+      "subtitle": "Edit text, images, and links in your PDF",
+      "desc": "Directly edit PDF content — modify text, replace images, add annotations, and update links without converting.",
+      "meta_title": "Edit PDF Online — Free PDF Editor | WPS AI",
+      "meta_desc": "Edit PDF files online free. Change text, images, and more."
+    },
+    "sign": {
+      "title": "Sign PDF",
+      "subtitle": "Add electronic signatures to PDFs",
+      "desc": "Sign PDFs digitally with a drawn, typed, or uploaded signature. Legally binding e-signatures in seconds.",
+      "meta_title": "Sign PDF Online — Electronic Signature | WPS AI",
+      "meta_desc": "Sign PDF online free. Create legally binding electronic signatures."
+    },
+    "protect": {
+      "title": "Protect PDF",
+      "subtitle": "Add password protection to your PDFs",
+      "desc": "Secure sensitive PDFs with password encryption. Control who can view, print, or modify your documents.",
+      "meta_title": "Protect PDF with Password — Free | WPS AI",
+      "meta_desc": "Add password protection to PDF files. Encrypt and secure your documents."
+    }
+  },
+
+  "writing": {
+    "hub_title": "AI Writing",
+    "hub_subtitle": "Write better, faster with the power of AI",
+    "ai_writer": {
+      "title": "AI Writer",
+      "subtitle": "Generate high-quality content with AI",
+      "desc": "Describe what you need and our AI Writer produces polished, original content in seconds. Blog posts, emails, reports — anything you need.",
+      "meta_title": "AI Writer — Free AI Content Generator | WPS AI",
+      "meta_desc": "Write better content faster with AI. Generate blog posts, emails, reports and more.",
+      "placeholder": "Describe what you want to write...",
+      "generate_btn": "Generate",
+      "tone_label": "Tone",
+      "length_label": "Length",
+      "tones": ["Professional", "Casual", "Persuasive", "Informative", "Creative"],
+      "lengths": ["Short (100 words)", "Medium (300 words)", "Long (600 words)", "Extended (1000+ words)"]
+    },
+    "ai_summarizer": {
+      "title": "AI Summarizer",
+      "subtitle": "Summarize any text or document instantly",
+      "desc": "Paste text or upload a document and get a concise, accurate summary. Save hours of reading time.",
+      "meta_title": "AI Text Summarizer — Free Online | WPS AI",
+      "meta_desc": "Summarize text and documents instantly with AI. Free, fast, accurate."
+    },
+    "paraphrase": {
+      "title": "Paraphrase Tool",
+      "subtitle": "Rewrite content while preserving meaning",
+      "desc": "Rephrase any text to improve clarity, avoid repetition, or adapt tone — without changing the core meaning.",
+      "meta_title": "Free Paraphrase Tool — AI Rewriter | WPS AI",
+      "meta_desc": "Paraphrase and rewrite text online for free with AI. Improve clarity and style."
+    },
+    "grammar_check": {
+      "title": "Grammar Checker",
+      "subtitle": "Fix grammar, spelling, and punctuation",
+      "desc": "Instantly detect and correct grammar errors, spelling mistakes, and punctuation issues. Write with confidence.",
+      "meta_title": "Free Grammar Checker Online | WPS AI",
+      "meta_desc": "Check and fix grammar, spelling and punctuation errors online free."
+    },
+    "translate": {
+      "title": "AI Translator",
+      "subtitle": "Translate text across 100+ languages",
+      "desc": "Translate documents, paragraphs, or single sentences with AI-powered accuracy across 100+ languages.",
+      "meta_title": "AI Translator — Free Online Translation | WPS AI",
+      "meta_desc": "Translate text to 100+ languages online free with AI-powered accuracy."
+    },
+    "email_writer": {
+      "title": "Email Writer",
+      "subtitle": "Generate professional emails instantly",
+      "desc": "Describe your email purpose and the AI writes a polished, professional email for you — ready to send.",
+      "meta_title": "AI Email Writer — Free Email Generator | WPS AI",
+      "meta_desc": "Write professional emails with AI. Free email generator for any situation."
+    },
+    "cover_letter": {
+      "title": "Cover Letter Generator",
+      "subtitle": "Create tailored cover letters in minutes",
+      "desc": "Enter the job title, company, and your background — get a compelling, personalized cover letter instantly.",
+      "meta_title": "AI Cover Letter Generator — Free | WPS AI",
+      "meta_desc": "Generate professional cover letters free with AI. Tailored to any job."
+    },
+    "blog_writer": {
+      "title": "Blog Writer",
+      "subtitle": "Create SEO-optimized blog posts with AI",
+      "desc": "Turn your topic ideas into full, SEO-ready blog posts. Our AI handles structure, headings, and engaging copy.",
+      "meta_title": "AI Blog Writer — Free Blog Post Generator | WPS AI",
+      "meta_desc": "Write SEO-optimized blog posts with AI for free. Full articles in minutes."
+    },
+    "essay_writer": {
+      "title": "Essay Writer",
+      "subtitle": "AI-powered essay generation for any topic",
+      "desc": "Struggling with an essay? Enter your topic, thesis, and length — get a well-structured essay draft instantly.",
+      "meta_title": "AI Essay Writer — Free Essay Generator | WPS AI",
+      "meta_desc": "Generate essays with AI free. Any topic, any length, well-structured."
+    },
+    "product_desc": {
+      "title": "Product Description Generator",
+      "subtitle": "Write compelling product descriptions",
+      "desc": "Transform product features into persuasive, conversion-focused descriptions for your online store.",
+      "meta_title": "Product Description Generator — Free AI | WPS AI",
+      "meta_desc": "Generate compelling product descriptions with AI free. Boost conversions."
+    }
+  },
+
+  "resume": {
+    "hub_title": "Resume Templates",
+    "hub_subtitle": "Professional resume templates to land your dream job",
+    "browse_title": "Browse All Templates",
+    "filter_all": "All",
+    "filter_professional": "Professional",
+    "filter_creative": "Creative",
+    "filter_simple": "Simple",
+    "filter_modern": "Modern",
+    "filter_ats": "ATS-Friendly",
+    "use_template": "Use This Template",
+    "preview": "Preview",
+    "detail_cta": "Use This Template Free",
+    "detail_cta_sub": "Download or edit online — no sign-up required"
+  },
+
+  "slides": {
+    "hub_title": "AI Slides",
+    "hub_subtitle": "Create beautiful presentations in minutes with AI",
+    "ai_ppt": {
+      "title": "AI Presentation Maker",
+      "subtitle": "Generate full presentations from a single prompt",
+      "desc": "Type your topic and AI creates a complete, beautifully designed presentation — with structure, content, and visuals.",
+      "meta_title": "AI Presentation Maker — Free PPT Generator | WPS AI",
+      "meta_desc": "Create full presentations from a prompt with AI. Free, fast, professional."
+    },
+    "outline": {
+      "title": "Presentation Outline Generator",
+      "subtitle": "Plan your presentation structure with AI",
+      "desc": "Generate a detailed, logical presentation outline in seconds. Perfect starting point for any deck.",
+      "meta_title": "Presentation Outline Generator — Free AI | WPS AI",
+      "meta_desc": "Generate presentation outlines with AI. Free, structured, instantly."
+    },
+    "design": {
+      "title": "Slide Designer",
+      "subtitle": "Auto-design slides that look professional",
+      "desc": "Input your content and our AI applies beautiful, consistent designs to every slide automatically.",
+      "meta_title": "AI Slide Designer — Auto-Design Presentations | WPS AI",
+      "meta_desc": "Auto-design professional slides with AI. Beautiful, consistent layouts instantly."
+    },
+    "theme": {
+      "title": "Presentation Themes",
+      "subtitle": "Thousands of free presentation themes",
+      "desc": "Browse our library of professionally designed presentation themes. One click to apply to your deck.",
+      "meta_title": "Free Presentation Themes — 1000+ Templates | WPS AI",
+      "meta_desc": "Download free presentation themes. 1000+ professionally designed templates."
+    },
+    "to_video": {
+      "title": "Slides to Video",
+      "subtitle": "Convert your presentation to video",
+      "desc": "Turn any PowerPoint or WPS presentation into a shareable video with transitions and narration.",
+      "meta_title": "Convert Slides to Video — Free Online | WPS AI",
+      "meta_desc": "Convert presentations to video online free. Add narration and transitions."
+    },
+    "chart_maker": {
+      "title": "Chart Maker",
+      "subtitle": "Create stunning charts for your slides",
+      "desc": "Build bar, line, pie, and custom charts from your data. Copy directly into any presentation.",
+      "meta_title": "Online Chart Maker — Free Chart Generator | WPS AI",
+      "meta_desc": "Create charts and graphs online free. For presentations, reports and more."
+    },
+    "mind_map": {
+      "title": "Mind Map Maker",
+      "subtitle": "Visualize ideas with AI mind maps",
+      "desc": "Enter a central idea and AI generates a complete mind map. Export to presentations or images.",
+      "meta_title": "Free Mind Map Maker — AI Mind Mapping | WPS AI",
+      "meta_desc": "Create mind maps with AI for free. Export to PPT or image instantly."
+    }
+  },
+
+  "presentation": {
+    "hub_title": "Presentation Templates",
+    "hub_subtitle": "Free professional presentation templates for every need",
+    "browse_title": "Browse All Templates",
+    "filter_all": "All",
+    "filter_business": "Business",
+    "filter_education": "Education",
+    "filter_creative": "Creative",
+    "filter_minimal": "Minimal",
+    "filter_pitch": "Pitch Deck",
+    "use_template": "Use This Template",
+    "preview": "Preview"
+  },
+
+  "sheets": {
+    "hub_title": "AI Sheets",
+    "hub_subtitle": "Smarter spreadsheets powered by AI",
+    "ai_excel": {
+      "title": "AI Excel Assistant",
+      "subtitle": "Ask AI to write and explain Excel formulas",
+      "desc": "Describe what you need and AI writes the exact Excel formula for you. Never struggle with spreadsheets again.",
+      "meta_title": "AI Excel Assistant — Free Formula Generator | WPS AI",
+      "meta_desc": "Generate Excel formulas with AI. Free, fast, accurate formula writer."
+    },
+    "formula_gen": {
+      "title": "Formula Generator",
+      "subtitle": "Generate Excel and Google Sheets formulas",
+      "desc": "Type your data task in plain English and get the exact formula — VLOOKUP, IF, SUMIF, and beyond.",
+      "meta_title": "Excel Formula Generator — Free AI Tool | WPS AI",
+      "meta_desc": "Generate Excel formulas in plain English. Free AI formula generator."
+    },
+    "data_analysis": {
+      "title": "Data Analysis AI",
+      "subtitle": "Analyze spreadsheet data with AI insights",
+      "desc": "Upload your spreadsheet and ask questions in plain language. Get instant charts, summaries, and insights.",
+      "meta_title": "AI Data Analysis Tool — Free | WPS AI",
+      "meta_desc": "Analyze spreadsheet data with AI. Ask questions, get instant insights."
+    },
+    "chart_gen": {
+      "title": "Chart Generator",
+      "subtitle": "Create charts from spreadsheet data",
+      "desc": "Paste your data and choose a chart type. AI builds a publication-ready chart instantly.",
+      "meta_title": "Chart Generator from Data — Free Online | WPS AI",
+      "meta_desc": "Create charts from data online free. Bar, line, pie, and more."
+    },
+    "csv_to_excel": {
+      "title": "CSV to Excel",
+      "subtitle": "Convert CSV files to Excel format",
+      "desc": "Upload any CSV file and convert to a formatted Excel spreadsheet with proper columns and styles.",
+      "meta_title": "CSV to Excel Converter — Free Online | WPS AI",
+      "meta_desc": "Convert CSV to Excel free. Proper formatting, instant download."
+    },
+    "excel_templates": {
+      "title": "Excel Templates",
+      "subtitle": "Ready-to-use spreadsheet templates",
+      "desc": "Browse hundreds of free Excel templates — budgets, trackers, invoices, calendars, and more.",
+      "meta_title": "Free Excel Templates — Download | WPS AI",
+      "meta_desc": "Download free Excel templates. Budgets, invoices, trackers and more."
+    }
+  },
+
+  "ai_tools": {
+    "hub_title": "AI Tools",
+    "hub_subtitle": "Powerful AI productivity tools for everyday tasks",
+    "qr_gen": {
+      "title": "QR Code Generator",
+      "subtitle": "Create custom QR codes for any link",
+      "desc": "Generate QR codes for URLs, text, email, phone, or WiFi. Customize color, size, and add your logo.",
+      "meta_title": "Free QR Code Generator — Custom QR Codes | WPS AI",
+      "meta_desc": "Create free QR codes for any URL or content. Custom colors and logo support.",
+      "input_placeholder": "Enter URL or text...",
+      "generate_btn": "Generate QR Code",
+      "download_btn": "Download QR Code",
+      "customize": "Customize",
+      "color_label": "Foreground Color",
+      "bg_label": "Background Color",
+      "size_label": "Size",
+      "format_label": "Format"
+    },
+    "img_compress": {
+      "title": "Image Compressor",
+      "subtitle": "Compress images without losing quality",
+      "desc": "Reduce image file sizes by up to 80% while maintaining visual quality. Supports JPG, PNG, WebP, and GIF.",
+      "meta_title": "Free Image Compressor — Reduce Image Size | WPS AI",
+      "meta_desc": "Compress images online free. Reduce file size without losing quality."
+    },
+    "img_to_text": {
+      "title": "Image to Text (OCR)",
+      "subtitle": "Extract text from images and photos",
+      "desc": "Upload any image with text and our OCR engine extracts it instantly. Supports 30+ languages.",
+      "meta_title": "Image to Text — Free OCR Online | WPS AI",
+      "meta_desc": "Extract text from images online free. Accurate OCR for 30+ languages."
+    },
+    "bg_remover": {
+      "title": "Background Remover",
+      "subtitle": "Remove image backgrounds in one click",
+      "desc": "Automatically remove backgrounds from photos with AI precision. Perfect for product images and portraits.",
+      "meta_title": "Free Background Remover — Remove Image BG | WPS AI",
+      "meta_desc": "Remove image backgrounds online free. AI-powered, one-click results."
+    },
+    "pdf_chat": {
+      "title": "Chat with PDF",
+      "subtitle": "Ask questions about any PDF document",
+      "desc": "Upload a PDF and have a conversation with it. Ask questions, get summaries, find information instantly.",
+      "meta_title": "Chat with PDF — AI PDF Reader | WPS AI",
+      "meta_desc": "Chat with any PDF document using AI. Ask questions and get instant answers."
+    },
+    "ai_detector": {
+      "title": "AI Content Detector",
+      "subtitle": "Detect AI-generated text instantly",
+      "desc": "Check if content was written by AI or a human. Paste text and get an instant AI probability score.",
+      "meta_title": "AI Content Detector — Free AI Text Checker | WPS AI",
+      "meta_desc": "Detect AI-generated content online free. Check any text instantly."
+    }
+  },
+
+  "guides": {
+    "hub_title": "Guides & Tutorials",
+    "hub_subtitle": "Learn how to use WPS AI tools like a pro",
+    "all_guides": "All Guides",
+    "filter_pdf": "PDF",
+    "filter_writing": "Writing",
+    "filter_slides": "Slides",
+    "filter_sheets": "Sheets",
+    "filter_beginner": "Beginner",
+    "filter_advanced": "Advanced",
+    "read_guide": "Read Guide →",
+    "min_read": "min read"
+  },
+
+  "template": {
+    "free_badge": "Free",
+    "pro_badge": "Pro",
+    "download": "Download",
+    "edit_online": "Edit Online",
+    "use_template": "Use Template",
+    "preview": "Preview",
+    "related": "Related Templates",
+    "formats": "Available Formats",
+    "pages": "Pages",
+    "updated": "Updated"
+  },
+
+  "tool": {
+    "upload_area": {
+      "title": "Drop files here",
+      "subtitle": "or click to browse",
+      "formats": "Supported formats",
+      "size_limit": "Max file size"
+    },
+    "processing": "Processing your file...",
+    "complete": "Conversion complete!",
+    "download_result": "Download Result",
+    "try_another": "Convert Another File",
+    "sign_in_for_more": "Sign in for unlimited conversions",
+    "daily_limit": "Daily limit: 3 free conversions",
+    "how_it_works": "How it works",
+    "step_upload": "Upload your file",
+    "step_process": "AI processes it",
+    "step_download": "Download result",
+    "faq": "Frequently Asked Questions",
+    "related_tools": "Related Tools",
+    "try_pro": "Try WPS AI Pro",
+    "pro_features": "Unlimited conversions, priority processing, 200MB files, batch mode"
+  },
+
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Start free. Upgrade when you need more.",
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "save": "Save {{percent}}%",
+    "free_plan": "Free",
+    "pro_plan": "Pro",
+    "team_plan": "Team",
+    "free_price": "$0",
+    "pro_price": "$6.99",
+    "team_price": "$4.99",
+    "per_month": "/month",
+    "per_user": "/user/month",
+    "get_started": "Get Started",
+    "go_pro": "Go Pro",
+    "contact_sales": "Contact Sales",
+    "most_popular": "Most Popular"
+  },
+
+  "footer": {
+    "tagline": "AI-powered office suite for everyone.",
+    "products": "Products",
+    "resources": "Resources",
+    "company": "Company",
+    "legal": "Legal",
+    "pdf_tools": "PDF Tools",
+    "ai_writing": "AI Writing",
+    "ai_slides": "AI Slides",
+    "ai_sheets": "AI Sheets",
+    "ai_tools": "AI Tools",
+    "templates": "Templates",
+    "guides": "Guides",
+    "blog": "Blog",
+    "changelog": "Changelog",
+    "api_docs": "API Docs",
+    "about": "About",
+    "careers": "Careers",
+    "press": "Press",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© {{year}} WPS AI. All rights reserved.",
+    "language_label": "Language"
+  },
+
+  "breadcrumb": {
+    "home": "Home"
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "retry": "Retry",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "or": "or",
+    "and": "and",
+    "free": "Free",
+    "new": "New",
+    "popular": "Popular",
+    "recommended": "Recommended",
+    "by_wps": "by WPS AI",
+    "learn_more": "Learn more",
+    "view_all": "View all",
+    "get_started": "Get started",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "upgrade": "Upgrade",
+    "share": "Share",
+    "copy_link": "Copy link",
+    "copied": "Copied!",
+    "no_results": "No results found",
+    "search_placeholder": "Search...",
+    "show_more": "Show more",
+    "show_less": "Show less",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "yes": "Yes",
+    "no": "No"
+  },
+
+  "seo": {
+    "site_name": "WPS AI",
+    "separator": " | ",
+    "og_type": "website"
+  }
+}

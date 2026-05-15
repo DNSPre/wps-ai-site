@@ -1,0 +1,38 @@
+{
+  "resume_templates": [
+    { "id": "r-modern-pro",    "name": "Modern Professional", "category": "professional", "ats": true,  "pages": 1, "color": "#534AB7", "thumbnail": "r-modern-pro.svg"    },
+    { "id": "r-minimal-clean", "name": "Minimal Clean",        "category": "simple",       "ats": true,  "pages": 1, "color": "#0F6E56", "thumbnail": "r-minimal-clean.svg" },
+    { "id": "r-creative-bold", "name": "Creative Bold",        "category": "creative",     "ats": false, "pages": 1, "color": "#E74C3C", "thumbnail": "r-creative-bold.svg" },
+    { "id": "r-executive",     "name": "Executive",            "category": "professional", "ats": true,  "pages": 2, "color": "#2C2C2A", "thumbnail": "r-executive.svg"     },
+    { "id": "r-tech-focused",  "name": "Tech Focused",         "category": "modern",       "ats": true,  "pages": 1, "color": "#185FA5", "thumbnail": "r-tech-focused.svg"  },
+    { "id": "r-elegant",       "name": "Elegant",              "category": "professional", "ats": false, "pages": 1, "color": "#9B59B6", "thumbnail": "r-elegant.svg"       },
+    { "id": "r-fresh-grad",    "name": "Fresh Graduate",       "category": "simple",       "ats": true,  "pages": 1, "color": "#27AE60", "thumbnail": "r-fresh-grad.svg"    },
+    { "id": "r-sidebar-dark",  "name": "Sidebar Dark",         "category": "modern",       "ats": false, "pages": 1, "color": "#2C2C2A", "thumbnail": "r-sidebar-dark.svg"  },
+    { "id": "r-academic",      "name": "Academic CV",          "category": "professional", "ats": true,  "pages": 2, "color": "#D24726", "thumbnail": "r-academic.svg"      },
+    { "id": "r-infographic",   "name": "Infographic",          "category": "creative",     "ats": false, "pages": 1, "color": "#E67E22", "thumbnail": "r-infographic.svg"   },
+    { "id": "r-two-column",    "name": "Two Column",           "category": "modern",       "ats": true,  "pages": 1, "color": "#3498DB", "thumbnail": "r-two-column.svg"    },
+    { "id": "r-timeline",      "name": "Timeline",             "category": "creative",     "ats": false, "pages": 1, "color": "#1ABC9C", "thumbnail": "r-timeline.svg"      }
+  ],
+  "presentation_templates": [
+    { "id": "p-pitch-deck",     "name": "Startup Pitch Deck",   "category": "pitch",       "slides": 20, "color": "#534AB7", "thumbnail": "p-pitch-deck.svg"     },
+    { "id": "p-business-plan",  "name": "Business Plan",        "category": "business",    "slides": 16, "color": "#2C2C2A", "thumbnail": "p-business-plan.svg"  },
+    { "id": "p-minimal-corp",   "name": "Minimal Corporate",    "category": "minimal",     "slides": 12, "color": "#185FA5", "thumbnail": "p-minimal-corp.svg"   },
+    { "id": "p-education",      "name": "Education & Training", "category": "education",   "slides": 14, "color": "#27AE60", "thumbnail": "p-education.svg"      },
+    { "id": "p-creative-bold",  "name": "Creative Bold",        "category": "creative",    "slides": 18, "color": "#E74C3C", "thumbnail": "p-creative-bold.svg"  },
+    { "id": "p-annual-report",  "name": "Annual Report",        "category": "business",    "slides": 24, "color": "#217346", "thumbnail": "p-annual-report.svg"  },
+    { "id": "p-product-launch", "name": "Product Launch",       "category": "pitch",       "slides": 15, "color": "#D24726", "thumbnail": "p-product-launch.svg" },
+    { "id": "p-marketing",      "name": "Marketing Strategy",   "category": "business",    "slides": 18, "color": "#9B59B6", "thumbnail": "p-marketing.svg"      },
+    { "id": "p-portfolio",      "name": "Portfolio",            "category": "creative",    "slides": 12, "color": "#E67E22", "thumbnail": "p-portfolio.svg"      },
+    { "id": "p-science",        "name": "Science & Research",   "category": "education",   "slides": 16, "color": "#3498DB", "thumbnail": "p-science.svg"        },
+    { "id": "p-dark-modern",    "name": "Dark Modern",          "category": "minimal",     "slides": 14, "color": "#2C2C2A", "thumbnail": "p-dark-modern.svg"    },
+    { "id": "p-infographic",    "name": "Infographic Deck",     "category": "creative",    "slides": 10, "color": "#1ABC9C", "thumbnail": "p-infographic.svg"    }
+  ],
+  "excel_templates": [
+    { "id": "e-budget",         "name": "Monthly Budget",       "category": "finance",     "sheets": 3 },
+    { "id": "e-invoice",        "name": "Invoice Template",     "category": "finance",     "sheets": 1 },
+    { "id": "e-project",        "name": "Project Tracker",      "category": "management",  "sheets": 4 },
+    { "id": "e-calendar",       "name": "Calendar 2025",        "category": "planning",    "sheets": 12 },
+    { "id": "e-gantt",          "name": "Gantt Chart",          "category": "management",  "sheets": 2 },
+    { "id": "e-crm",            "name": "Simple CRM",           "category": "sales",       "sheets": 3 }
+  ]
+}

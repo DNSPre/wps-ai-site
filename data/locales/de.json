@@ -1,0 +1,16 @@
+{
+  "lang": "de",
+  "dir": "ltr",
+  "nav": {
+    "products": "Produkte",
+    "templates": "Vorlagen",
+    "guides": "Anleitungen",
+    "pricing": "Preise",
+    "signin": "Anmelden",
+    "getstarted": "Kostenlos starten"
+  },
+  "home": {
+    "hero_title": "Deine KI-Bürosuite",
+    "hero_cta_primary": "Kostenlos starten"
+  }
+}

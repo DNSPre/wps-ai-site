@@ -1,0 +1,16 @@
+{
+  "lang": "it",
+  "dir": "ltr",
+  "nav": {
+    "products": "Prodotti",
+    "templates": "Modelli",
+    "guides": "Guide",
+    "pricing": "Prezzi",
+    "signin": "Accedi",
+    "getstarted": "Inizia gratis"
+  },
+  "home": {
+    "hero_title": "La Tua Suite Office con IA",
+    "hero_cta_primary": "Inizia gratis"
+  }
+}

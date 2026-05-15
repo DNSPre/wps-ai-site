@@ -1,0 +1,16 @@
+{
+  "lang": "zh-cn",
+  "dir": "ltr",
+  "nav": {
+    "products": "产品",
+    "templates": "模板",
+    "guides": "指南",
+    "pricing": "定价",
+    "signin": "登录",
+    "getstarted": "免费开始"
+  },
+  "home": {
+    "hero_title": "AI 驱动的办公套件",
+    "hero_cta_primary": "免费开始"
+  }
+}

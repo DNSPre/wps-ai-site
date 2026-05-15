@@ -1,0 +1,16 @@
+{
+  "lang": "fr",
+  "dir": "ltr",
+  "nav": {
+    "products": "Produits",
+    "templates": "Modèles",
+    "guides": "Guides",
+    "pricing": "Tarifs",
+    "signin": "Connexion",
+    "getstarted": "Commencer gratuitement"
+  },
+  "home": {
+    "hero_title": "Votre Suite Bureautique IA",
+    "hero_cta_primary": "Commencer gratuitement"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "tr",
+  "dir": "ltr",
+  "nav": {
+    "products": "Ürünler",
+    "templates": "Şablonlar",
+    "guides": "Kılavuzlar",
+    "pricing": "Fiyatlar",
+    "signin": "Giriş yap",
+    "getstarted": "Ücretsiz başla"
+  },
+  "home": {
+    "hero_title": "Yapay Zeka Ofis Paketiniz",
+    "hero_cta_primary": "Ücretsiz başla"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "ko",
+  "dir": "ltr",
+  "nav": {
+    "products": "제품",
+    "templates": "템플릿",
+    "guides": "가이드",
+    "pricing": "요금",
+    "signin": "로그인",
+    "getstarted": "무료로 시작"
+  },
+  "home": {
+    "hero_title": "AI 오피스 스위트",
+    "hero_cta_primary": "무료로 시작"
+  }
+}

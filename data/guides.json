@@ -1,0 +1,84 @@
+{
+  "guides": [
+    {
+      "id": "how-to-convert-pdf-to-word",
+      "title": "How to Convert PDF to Word (3 Methods)",
+      "category": "pdf",
+      "tags": ["pdf", "conversion", "beginner"],
+      "readTime": 4,
+      "slug": "how-to-convert-pdf-to-word",
+      "thumbnail": "g-pdf-to-word.svg",
+      "excerpt": "Learn how to convert any PDF to an editable Word document using WPS AI, keeping all formatting intact."
+    },
+    {
+      "id": "compress-pdf-without-quality-loss",
+      "title": "How to Compress PDF Without Losing Quality",
+      "category": "pdf",
+      "tags": ["pdf", "compress", "beginner"],
+      "readTime": 3,
+      "slug": "compress-pdf-without-quality-loss",
+      "thumbnail": "g-compress-pdf.svg",
+      "excerpt": "Reduce PDF file sizes dramatically while maintaining visual quality — step-by-step guide."
+    },
+    {
+      "id": "merge-split-pdf-guide",
+      "title": "Complete Guide to Merging and Splitting PDFs",
+      "category": "pdf",
+      "tags": ["pdf", "merge", "split", "intermediate"],
+      "readTime": 5,
+      "slug": "merge-split-pdf-guide",
+      "thumbnail": "g-merge-pdf.svg",
+      "excerpt": "Everything you need to know about combining and splitting PDF files for better document management."
+    },
+    {
+      "id": "ai-writer-getting-started",
+      "title": "Getting Started with AI Writer",
+      "category": "writing",
+      "tags": ["ai-writing", "beginner"],
+      "readTime": 5,
+      "slug": "ai-writer-getting-started",
+      "thumbnail": "g-ai-writer.svg",
+      "excerpt": "Discover how to use AI Writer to create blog posts, emails, and more in minutes."
+    },
+    {
+      "id": "write-better-prompts",
+      "title": "How to Write Better AI Prompts for Content",
+      "category": "writing",
+      "tags": ["ai-writing", "tips", "advanced"],
+      "readTime": 6,
+      "slug": "write-better-prompts",
+      "thumbnail": "g-prompts.svg",
+      "excerpt": "Master the art of prompt engineering to get higher quality content from AI writing tools."
+    },
+    {
+      "id": "ai-presentation-guide",
+      "title": "How to Create a Presentation with AI in 5 Minutes",
+      "category": "slides",
+      "tags": ["slides", "ai", "beginner"],
+      "readTime": 4,
+      "slug": "ai-presentation-guide",
+      "thumbnail": "g-ai-slides.svg",
+      "excerpt": "Go from blank slide to complete presentation using AI Presentation Maker — a quick start guide."
+    },
+    {
+      "id": "excel-formulas-ai",
+      "title": "10 Excel Formulas You Can Generate with AI",
+      "category": "sheets",
+      "tags": ["excel", "formulas", "intermediate"],
+      "readTime": 7,
+      "slug": "excel-formulas-ai",
+      "thumbnail": "g-excel-ai.svg",
+      "excerpt": "Stop memorizing complex Excel formulas. Let AI generate VLOOKUP, INDEX-MATCH, and more for you."
+    },
+    {
+      "id": "qr-code-guide",
+      "title": "How to Create a Custom QR Code in Seconds",
+      "category": "tools",
+      "tags": ["qr-code", "beginner"],
+      "readTime": 2,
+      "slug": "qr-code-guide",
+      "thumbnail": "g-qr.svg",
+      "excerpt": "Generate custom branded QR codes for URLs, social media, and business cards — completely free."
+    }
+  ]
+}

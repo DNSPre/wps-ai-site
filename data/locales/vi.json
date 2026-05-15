@@ -1,0 +1,16 @@
+{
+  "lang": "vi",
+  "dir": "ltr",
+  "nav": {
+    "products": "Sản phẩm",
+    "templates": "Mẫu",
+    "guides": "Hướng dẫn",
+    "pricing": "Giá",
+    "signin": "Đăng nhập",
+    "getstarted": "Bắt đầu miễn phí"
+  },
+  "home": {
+    "hero_title": "Bộ Công Cụ Văn Phòng AI",
+    "hero_cta_primary": "Bắt đầu miễn phí"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "ar",
+  "dir": "rtl",
+  "nav": {
+    "products": "المنتجات",
+    "templates": "القوالب",
+    "guides": "الأدلة",
+    "pricing": "الأسعار",
+    "signin": "تسجيل الدخول",
+    "getstarted": "ابدأ مجانًا"
+  },
+  "home": {
+    "hero_title": "مجموعة مكتبية بالذكاء الاصطناعي",
+    "hero_cta_primary": "ابدأ مجانًا"
+  }
+}

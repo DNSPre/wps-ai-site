@@ -1,0 +1,55 @@
+{
+  "pdf_tools": [
+    { "id": "pdf-to-word",   "slug": "pdf-to-word",   "category": "pdf-tools", "icon": "pdf-word",   "color": "#2B579A", "popular": true  },
+    { "id": "pdf-to-excel",  "slug": "pdf-to-excel",  "category": "pdf-tools", "icon": "pdf-excel",  "color": "#217346", "popular": true  },
+    { "id": "pdf-to-ppt",    "slug": "pdf-to-ppt",    "category": "pdf-tools", "icon": "pdf-ppt",    "color": "#D24726", "popular": false },
+    { "id": "pdf-to-jpg",    "slug": "pdf-to-jpg",    "category": "pdf-tools", "icon": "pdf-jpg",    "color": "#E67E22", "popular": false },
+    { "id": "word-to-pdf",   "slug": "word-to-pdf",   "category": "pdf-tools", "icon": "word-pdf",   "color": "#2B579A", "popular": true  },
+    { "id": "excel-to-pdf",  "slug": "excel-to-pdf",  "category": "pdf-tools", "icon": "excel-pdf",  "color": "#217346", "popular": false },
+    { "id": "ppt-to-pdf",    "slug": "ppt-to-pdf",    "category": "pdf-tools", "icon": "ppt-pdf",    "color": "#D24726", "popular": false },
+    { "id": "jpg-to-pdf",    "slug": "jpg-to-pdf",    "category": "pdf-tools", "icon": "jpg-pdf",    "color": "#E67E22", "popular": false },
+    { "id": "compress-pdf",  "slug": "compress-pdf",  "category": "pdf-tools", "icon": "compress",   "color": "#9B59B6", "popular": true  },
+    { "id": "merge-pdf",     "slug": "merge-pdf",     "category": "pdf-tools", "icon": "merge",      "color": "#3498DB", "popular": true  },
+    { "id": "split-pdf",     "slug": "split-pdf",     "category": "pdf-tools", "icon": "split",      "color": "#1ABC9C", "popular": false },
+    { "id": "edit-pdf",      "slug": "edit-pdf",      "category": "pdf-tools", "icon": "edit",       "color": "#534AB7", "popular": true  },
+    { "id": "sign-pdf",      "slug": "sign-pdf",      "category": "pdf-tools", "icon": "sign",       "color": "#27AE60", "popular": false },
+    { "id": "protect-pdf",   "slug": "protect-pdf",   "category": "pdf-tools", "icon": "protect",    "color": "#E74C3C", "popular": false }
+  ],
+  "ai_writing": [
+    { "id": "ai-writer",        "slug": "ai-writer",        "category": "ai-writing", "icon": "ai-write",   "color": "#534AB7", "popular": true  },
+    { "id": "ai-summarizer",    "slug": "ai-summarizer",    "category": "ai-writing", "icon": "summarize",  "color": "#0F6E56", "popular": true  },
+    { "id": "paraphrase",       "slug": "paraphrase",       "category": "ai-writing", "icon": "rephrase",   "color": "#185FA5", "popular": true  },
+    { "id": "grammar-check",    "slug": "grammar-check",    "category": "ai-writing", "icon": "grammar",    "color": "#27AE60", "popular": true  },
+    { "id": "translate",        "slug": "translate",        "category": "ai-writing", "icon": "translate",  "color": "#E67E22", "popular": true  },
+    { "id": "email-writer",     "slug": "email-writer",     "category": "ai-writing", "icon": "email",      "color": "#3498DB", "popular": false },
+    { "id": "cover-letter",     "slug": "cover-letter",     "category": "ai-writing", "icon": "letter",     "color": "#9B59B6", "popular": false },
+    { "id": "blog-writer",      "slug": "blog-writer",      "category": "ai-writing", "icon": "blog",       "color": "#1ABC9C", "popular": false },
+    { "id": "essay-writer",     "slug": "essay-writer",     "category": "ai-writing", "icon": "essay",      "color": "#E74C3C", "popular": false },
+    { "id": "product-desc",     "slug": "product-desc",     "category": "ai-writing", "icon": "product",    "color": "#D24726", "popular": false }
+  ],
+  "ai_slides": [
+    { "id": "ai-ppt",        "slug": "ai-ppt",        "category": "ai-slides", "icon": "ai-ppt",    "color": "#D24726", "popular": true  },
+    { "id": "outline",       "slug": "outline",       "category": "ai-slides", "icon": "outline",   "color": "#534AB7", "popular": false },
+    { "id": "design",        "slug": "design",        "category": "ai-slides", "icon": "design",    "color": "#0F6E56", "popular": false },
+    { "id": "theme",         "slug": "theme",         "category": "ai-slides", "icon": "theme",     "color": "#E67E22", "popular": true  },
+    { "id": "to-video",      "slug": "to-video",      "category": "ai-slides", "icon": "video",     "color": "#E74C3C", "popular": false },
+    { "id": "chart-maker",   "slug": "chart-maker",   "category": "ai-slides", "icon": "chart",     "color": "#3498DB", "popular": false },
+    { "id": "mind-map",      "slug": "mind-map",      "category": "ai-slides", "icon": "mindmap",   "color": "#9B59B6", "popular": false }
+  ],
+  "ai_sheets": [
+    { "id": "ai-excel",       "slug": "ai-excel",       "category": "ai-sheets", "icon": "ai-excel",  "color": "#217346", "popular": true  },
+    { "id": "formula-gen",    "slug": "formula-gen",    "category": "ai-sheets", "icon": "formula",   "color": "#185FA5", "popular": true  },
+    { "id": "data-analysis",  "slug": "data-analysis",  "category": "ai-sheets", "icon": "analysis",  "color": "#534AB7", "popular": false },
+    { "id": "chart-gen",      "slug": "chart-gen",      "category": "ai-sheets", "icon": "chart",     "color": "#E67E22", "popular": false },
+    { "id": "csv-to-excel",   "slug": "csv-to-excel",   "category": "ai-sheets", "icon": "csv",       "color": "#27AE60", "popular": false },
+    { "id": "excel-templates","slug": "excel-templates","category": "ai-sheets", "icon": "templates", "color": "#9B59B6", "popular": false }
+  ],
+  "ai_tools": [
+    { "id": "qr-gen",       "slug": "qr-gen",       "category": "ai-tools", "icon": "qr",        "color": "#2C2C2A", "popular": true  },
+    { "id": "img-compress", "slug": "img-compress", "category": "ai-tools", "icon": "compress",  "color": "#3498DB", "popular": true  },
+    { "id": "img-to-text",  "slug": "img-to-text",  "category": "ai-tools", "icon": "ocr",       "color": "#534AB7", "popular": false },
+    { "id": "bg-remover",   "slug": "bg-remover",   "category": "ai-tools", "icon": "bg-remove", "color": "#E74C3C", "popular": true  },
+    { "id": "pdf-chat",     "slug": "pdf-chat",     "category": "ai-tools", "icon": "chat",      "color": "#0F6E56", "popular": true  },
+    { "id": "ai-detector",  "slug": "ai-detector",  "category": "ai-tools", "icon": "detector",  "color": "#E67E22", "popular": false }
+  ]
+}

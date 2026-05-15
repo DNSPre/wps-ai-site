@@ -1,0 +1,16 @@
+{
+  "lang": "ru",
+  "dir": "ltr",
+  "nav": {
+    "products": "Продукты",
+    "templates": "Шаблоны",
+    "guides": "Гайды",
+    "pricing": "Цены",
+    "signin": "Войти",
+    "getstarted": "Начать бесплатно"
+  },
+  "home": {
+    "hero_title": "ИИ-офисный пакет",
+    "hero_cta_primary": "Начать бесплатно"
+  }
+}

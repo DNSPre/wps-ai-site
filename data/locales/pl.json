@@ -1,0 +1,16 @@
+{
+  "lang": "pl",
+  "dir": "ltr",
+  "nav": {
+    "products": "Produkty",
+    "templates": "Szablony",
+    "guides": "Poradniki",
+    "pricing": "Cennik",
+    "signin": "Zaloguj się",
+    "getstarted": "Zacznij za darmo"
+  },
+  "home": {
+    "hero_title": "Twój Pakiet Biurowy AI",
+    "hero_cta_primary": "Zacznij za darmo"
+  }
+}

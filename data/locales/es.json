@@ -1,0 +1,16 @@
+{
+  "lang": "es",
+  "dir": "ltr",
+  "nav": {
+    "products": "Productos",
+    "templates": "Plantillas",
+    "guides": "Guías",
+    "pricing": "Precios",
+    "signin": "Iniciar sesión",
+    "getstarted": "Empezar gratis"
+  },
+  "home": {
+    "hero_title": "Tu Suite de Oficina con IA",
+    "hero_cta_primary": "Empezar gratis"
+  }
+}

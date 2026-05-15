@@ -1,0 +1,16 @@
+{
+  "lang": "th",
+  "dir": "ltr",
+  "nav": {
+    "products": "ผลิตภัณฑ์",
+    "templates": "เทมเพลต",
+    "guides": "คู่มือ",
+    "pricing": "ราคา",
+    "signin": "เข้าสู่ระบบ",
+    "getstarted": "เริ่มฟรี"
+  },
+  "home": {
+    "hero_title": "ชุดออฟฟิศ AI ของคุณ",
+    "hero_cta_primary": "เริ่มฟรี"
+  }
+}

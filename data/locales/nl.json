@@ -1,0 +1,16 @@
+{
+  "lang": "nl",
+  "dir": "ltr",
+  "nav": {
+    "products": "Producten",
+    "templates": "Sjablonen",
+    "guides": "Gidsen",
+    "pricing": "Prijzen",
+    "signin": "Inloggen",
+    "getstarted": "Gratis beginnen"
+  },
+  "home": {
+    "hero_title": "Jouw AI-Kantoorpakket",
+    "hero_cta_primary": "Gratis beginnen"
+  }
+}
