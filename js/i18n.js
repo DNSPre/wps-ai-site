@@ -32,8 +32,9 @@ const I18n = {
 
   getBasePath() {
     // Must match Utils.getBasePath() logic for consistent relative paths
+    // Pages at root depth (e.g. /en/index.html, /zh-cn/xxx) need ../ to reach /
     const depth = window.location.pathname.split('/').filter(Boolean).length;
-    return depth <= 1 ? './' : '../'.repeat(depth - 1);
+    return depth <= 1 ? '../' : '../'.repeat(depth - 1);
   },
 
   /**

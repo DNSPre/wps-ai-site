@@ -37,8 +37,8 @@ const Utils = {
   /** Get base path (number of ../ needed) */
   getBasePath() {
     const depth = window.location.pathname.split('/').filter(Boolean).length;
-    // Assume structure: /wps-site/{lang}/category/page.html → depth 4, need ../../..
-    if (depth <= 1) return './';
+    // Pages at root depth (e.g. /en/index.html) need ../ to reach site root
+    if (depth <= 1) return '../';
     return '../'.repeat(depth - 1);
   },
 
